@@ -41,9 +41,9 @@ return(prependKitten)
 }
 
 function removeLastKitten(){
-var byeByeKitten = kittens
+//var byeByeKitten = kittens
 
-return byeByeKitten.pop()
+var byeByeKitten = [kittens.slice(0, kittens.lenght -1)]
 
 return byeByeKitten
 

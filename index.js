@@ -43,7 +43,7 @@ return(prependKitten)
 function removeLastKitten(){
 var byeByeKitten = kittens
 
-return byeByeKitten.slice(0, byeByeKitten.lenght -1)
+return byeByeKitten.slice(0, byeByeKitten.length -1)
 
 
 }

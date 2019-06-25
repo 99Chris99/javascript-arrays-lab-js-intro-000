@@ -20,12 +20,12 @@ kittens.pop()
 
 }
 
-destructivelyRemoveFirstKitten(){
+function destructivelyRemoveFirstKitten(){
 
 kittens.shift()
 
 }
-/*
+
 function appendKitten(name){
 
 var appendKitten = [...kittens,name]
@@ -33,4 +33,3 @@ var appendKitten = [...kittens,name]
 return(appendKitten)
 
 }
-*/

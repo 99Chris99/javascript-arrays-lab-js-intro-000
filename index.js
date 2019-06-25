@@ -10,6 +10,6 @@ kittens.push(name)
 
 function destructivelyPrependKitten(name){
 
-kittnes.unshift(name)
+kittens.unshift(name);
 
 }

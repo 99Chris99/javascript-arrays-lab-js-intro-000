@@ -30,6 +30,6 @@ function appendKitten(name){
 
 var appendKitten = [...kittens,name]
 
-return appendKitten
+return(appendKitten)
 
 }

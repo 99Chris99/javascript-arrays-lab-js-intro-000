@@ -52,6 +52,6 @@ return byeByeKitten.slice(0, byeByeKitten.length -1)
 function removeFirstKitten(){
 var helloKitten = kittens
 
-return helloKitten.slice(0, helloKitten.length 1)
+return helloKitten.slice(0, helloKitten.length -1)
 
 }

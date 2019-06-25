@@ -43,7 +43,7 @@ return(prependKitten)
 function removeLastKitten(){
 var byeByeKitten = kittens
 
-byeByeKitten.pop()
+return byeByeKitten.pop()
 
 return(byeByeKitten)
 

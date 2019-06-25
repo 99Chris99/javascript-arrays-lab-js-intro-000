@@ -43,15 +43,18 @@ return(prependKitten)
 function removeLastKitten(){
 var byeByeKitten = kittens
 
-return byeByeKitten.slice(0, byeByeKitten.length -1)
+//return byeByeKitten.slice(0, byeByeKitten.length -1)
+
+return byeByeKitten.slice(-1)
 
 }
 
 //why can't I use pop!!!!
-
+/*
 function removeFirstKitten(){
 var helloKitten = kittens
 
-return helloKitten.slice(0, helloKitten.length 0)
+return helloKitten.slice(0, helloKitten.l)
 
 }
+*/

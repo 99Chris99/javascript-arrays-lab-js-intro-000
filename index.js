@@ -50,11 +50,11 @@ return byeByeKitten.slice(0, byeByeKitten.length -1)
 
 //why can't I use pop!!!!
 
-/*
+
 function removeFirstKitten(){
 var helloKitten = kittens
 
-return helloKitten.slice(0, helloKitten.l)
+return helloKitten.slice(1)
 
 }
-*/
+

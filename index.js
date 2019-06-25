@@ -45,6 +45,6 @@ var byeByeKitten = kittens
 
 return byeByeKitten.pop()
 
-returnbyeByeKitten
+return byeByeKitten
 
 }

@@ -57,4 +57,3 @@ var helloKitten = kittens
 return helloKitten.slice(1)
 
 }
-
